@@ -18,7 +18,7 @@ Languages in which Hello World is written:
 - [x] **C#**
 - [x] **C++**
 - [x] **C**
-- [x] **PHP*
+- [x] **PHP**
 - [x] **Dart**
 - [x] **Fortran**
 - [x] **Go**
