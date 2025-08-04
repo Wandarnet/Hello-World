@@ -1,4 +1,4 @@
-<center>**Hello** 👋</center> 
+<center>Hello 👋</center> 
 
 I'm David, and i think to do i repository where you can find how to write "Hello World" on many languages
 
